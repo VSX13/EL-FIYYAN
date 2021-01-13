@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EL-FIYYAN</string>
+    <string name="app_dashboard">WELCOME</string>
+    <string name="app_profile">PROFILE</string>
+    <string name="email">VSX.KiryuuSento@gmail.com</string>
+    <string name="no_hp">+62 821-3212-9437</string>
+    <string name="gender">Male</string>
+    <string name="address">Perumahan Graha Penta Block AH-21, Bluru Kidul Sidoarjo</string>
+    <string name="email2">Hafizh.Hype@gmail.com</string>
+    <string name="no_hp2">+62 813-5709-4655</string>
+</resources>
